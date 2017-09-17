@@ -24,7 +24,6 @@ public class App
         arrayStack.push(5);
         System.out.println(arrayStack.toString());
 
-
         /*for (int i = 0; i < stack.table.length; i++) {
             System.out.println("Table number: ");
 
